@@ -1,0 +1,39 @@
+0	A	Marron 2	FER
+0	A	Marron 3	NR
+0	A	Marron 4	NR
+0	A	Marron 5	FER
+0	A	Marron 6	COBALT
+0	A	Gris 7	ARGENT
+0	A	Gris 8	ALUMINIUM
+0	A	Gris 9	FER
+0	A	Gris 10	COBALT
+0	A	Gris 11	OR
+0	A	Jaune 12	ARGENT
+0	A	Jaune 13	ALUMINIUM
+0	A	Jaune 14	ALUMINIUM
+0	A	Jaune 15	NR
+0	A	Jaune 16	NR
+0	A	Bleu 17	OR
+0	A	Bleu 18	NR
+0	A	Bleu 19	FER
+0	A	Bleu 20	COBALT
+0	A	Bleu 21	NR
+0	A	Vert 22	OR
+0	A	Vert 23	NR
+0	A	Vert 24	FER
+0	A	Vert 25	OR
+0	A	Vert 26	ARGENT
+0	A	Rouge 27	FER
+0	A	Rouge 28	FER
+0	A	Rouge 29	ARGENT
+0	A	Rouge 30	FER
+0	A	Rouge 31	ALUMINIUM
+1	P	Vert 22	Vert 26
+2	P	Noir 1	Bleu 17
+3	P	Noir 1	Bleu 17
+4	P	Noir 1	Gris 10
+5	P	Noir 1	Gris 7
+5	P	Bleu 17	Gris 9
+5	P	Gris 9	Gris 11
+6	P	Gris 11	Gris 7
+7	P	Gris 11	Jaune 14

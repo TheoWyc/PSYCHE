@@ -1,0 +1,81 @@
+T	/home/theow/Bureau/iut/sae dev/ex4/b/Groupe2_SAE_2_01_2_5_Exercice_3/ConstructeurDeMap/skin/pokemon
+N	Nouvelle Rome	390	518	1
+N	Marron 2	468	602	1
+N	Marron 3	305	503	2
+N	Marron 4	252	610	3
+N	Marron 5	355	568	4
+N	Marron 6	158	561	5
+N	Gris 7	519	413	0
+N	Gris 8	548	677	1
+N	Gris 9	456	205	2
+N	Gris 10	574	524	3
+N	Gris 11	537	292	4
+N	Jaune 12	682	434	1
+N	Jaune 13	820	569	2
+N	Jaune 14	671	309	3
+N	Jaune 15	822	433	4
+N	Jaune 16	686	571	5
+N	Bleu 17	428	375	2
+N	Bleu 18	197	445	3
+N	Bleu 19	290	370	4
+N	Bleu 20	253	252	6
+N	Bleu 21	348	241	8
+N	Vert 22	243	157	2
+N	Vert 23	401	142	3
+N	Vert 24	328	43	4
+N	Vert 25	156	81	8
+N	Vert 26	124	169	6
+N	Rouge 27	174	291	1
+N	Rouge 28	111	457	2
+N	Rouge 29	89	332	3
+N	Rouge 30	27	469	4
+N	Rouge 31	21	304	5
+R	1	1	2
+R	1	1	3
+R	1	1	17
+R	2	1	7
+R	1	2	5
+R	2	5	4
+R	2	4	3
+R	1	7	10
+R	1	10	8
+R	2	2	8
+R	1	7	11
+R	1	11	9
+R	2	7	12
+R	2	10	12
+R	2	12	16
+R	1	16	13
+R	2	13	15
+R	1	12	15
+R	2	15	14
+R	2	14	11
+R	2	8	16
+R	2	6	4
+R	1	28	6
+R	1	28	30
+R	2	31	30
+R	1	31	29
+R	1	29	27
+R	2	27	28
+R	1	17	19
+R	1	19	18
+R	1	27	18
+R	1	27	20
+R	1	20	21
+R	1	21	17
+R	1	21	19
+R	1	18	20
+R	1	17	9
+R	1	18	3
+R	1	26	20
+R	2	26	31
+R	1	26	29
+R	1	22	26
+R	1	22	20
+R	1	22	23
+R	1	23	21
+R	1	22	25
+R	1	25	24
+R	1	24	22
+R	1	24	23
